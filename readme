@@ -1,0 +1,7 @@
+buat running test
+cargo test hello_test -- --exact
+
+biar muncul testnmya
+cargo test hello_test -- --exact --nocapture
+
+build cargo build --release
